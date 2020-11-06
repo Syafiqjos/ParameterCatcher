@@ -1,0 +1,8 @@
+C:\Users\USER\AppData\Local\Temporary Projects\ParameterCatcher\bin\Debug\ParameterCatcher.exe
+C:\Users\USER\AppData\Local\Temporary Projects\ParameterCatcher\bin\Debug\ParameterCatcher.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\ParameterCatcher\obj\x86\Debug\ParameterCatcher.exe
+C:\Users\USER\AppData\Local\Temporary Projects\ParameterCatcher\obj\x86\Debug\ParameterCatcher.pdb
+D:\]DovahkiiND[\ParameterCatcher\ParameterCatcher\ParameterCatcher\obj\x86\Debug\ParameterCatcher.exe
+D:\]DovahkiiND[\ParameterCatcher\ParameterCatcher\ParameterCatcher\obj\x86\Debug\ParameterCatcher.pdb
+D:\]DovahkiiND[\ParameterCatcher\ParameterCatcher\ParameterCatcher\bin\Debug\ParameterCatcher.exe
+D:\]DovahkiiND[\ParameterCatcher\ParameterCatcher\ParameterCatcher\bin\Debug\ParameterCatcher.pdb
